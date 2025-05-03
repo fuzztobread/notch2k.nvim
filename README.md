@@ -2,7 +2,7 @@
 
 A dark, muted colorscheme for Neovim inspired by the N0tch2k terminal theme. Designed for comfortable, extended coding sessions with a focus on readability and reduced eye strain.
 
-![Notch2k Colorscheme Screenshot](screenshots/main)
+![Notch2k Colorscheme Screenshot](screenshots/main.png)
 
 ## Features
 
