@@ -1,6 +1,3 @@
-" Vim color file
-" Maintainer: Anjil Niraula
-" Last Change: 2025-05-03
 
 set background=dark
 highlight clear
